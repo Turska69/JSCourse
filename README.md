@@ -1,3 +1,5 @@
+TURO HEINO
+
 # Project Title
 
 School project 1 - javascript
