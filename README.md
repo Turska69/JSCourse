@@ -2,7 +2,7 @@ TURO HEINO
 
 # Project Title
 
-School project 1´2 - javascript
+School project 2 - javascript
 
 ## Description
 
