@@ -2,11 +2,11 @@ TURO HEINO
 
 # Project Title
 
-School project 1 - javascript
+School project 1´2 - javascript
 
 ## Description
 
-Making a todo-list or similar.
+Getting album info from Lastfm
 
 ## Getting Started
 
